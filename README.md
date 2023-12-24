@@ -1,1 +1,2 @@
-## CodeClauseInternship_LandingPage
+## Web Development Project
+
